@@ -1,16 +1,13 @@
-1.Open terminal.
+# Random Forest Classifier
 
-2.Clone the respository using command 
-```
-https://github.com/Akilan-007/Random_Forest_Classifier.git
-```
+Species predictionn using Random Forest Classifier
 
-3.get into the directory using command 
+1. Install Flask
 ```
-cd RandomForestClassifier
-```
+pip install Flask
 
-4.Run the python file using command 
+```
+2. Run the app 
 ```
 python RFC.py
 ```
